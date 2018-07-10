@@ -1,4 +1,4 @@
-your_name = "HZ"
+$your_name = "HZ"
 def say_hello
   puts "Hello #${your_name}."
 end
