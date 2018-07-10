@@ -1,12 +1,9 @@
 # Build your say_hello method here
-# def say_hello
-  # your_name = "Hope"
-  # puts "Hello #{your_name}"
-# end
-# say_hello
-
-def say_hello(your_name)
-  puts "Hello #{your_name}."
+ def say_hello
+   your_name = "Hope"
+   puts "Hello #{your_name}"
 end
 say_hello
+
+
   
